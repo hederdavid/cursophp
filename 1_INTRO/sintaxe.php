@@ -1,3 +1,7 @@
-<?php 
-    echo "Testando sintaxe"
+<?php
+
+  echo "Testando o PHP";
+
 ?>
+
+Aqui não é PHP
